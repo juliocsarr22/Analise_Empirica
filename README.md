@@ -15,8 +15,8 @@ Para escolher uma nova função de pesquisa para ser executada, basta abrir o ar
 2 = busca binária iterativa         
 3 = busca binária recursiva            
 4 = busca ternária iterativa          
-5 = busca ternária recursiva
-6 = busca Jump Search
+5 = busca ternária recursiva  
+6 = busca Jump Search  
 7 = busca fibonacci
 
 
